@@ -1,5 +1,7 @@
 # Find twist-secure Montgomery and Edwards curves
 
+Requires Unix-like environment.
+
 Copy files from this repository to a working directory, and move into that directory 
 
 Download the MIRACL library and build it and the required applications
