@@ -8,7 +8,7 @@ Download the MIRACL library and build it and the required applications
 
 	bash script.sh
 
-Build a collection of modular poynomials for the chosen prime *p*, which would typically be of a size somewhere between 160 and 521 bits.
+Build a collection of modular polynomials for the chosen prime *p*, which would typically be of a size somewhere between 160 and 521 bits.
 
 	./modpol -f 5.2^248-1 0 200 -o p52481.pol
 
